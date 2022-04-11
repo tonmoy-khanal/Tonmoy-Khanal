@@ -7,7 +7,7 @@
 - 🔭 I am good at Machine learning and Deep learning. I use python for Data science.
 - 🔭 I have completed my master's in Data Science from GUVI GEEK NETWORK PRIVATE LIMITED (IITM)
 
-### Area of Interest :
+### Area of Interest 💼 :
 
 <img src="https://user-images.githubusercontent.com/38865308/162809209-8a35db61-6b29-4b34-8c65-d8dd4eed1579.jpg" 
      width="70" 
@@ -22,7 +22,7 @@
      width="70" 
      height="50" />
 
-### Language and Tools
+### Language and Tools 🧰:
 <img src="https://user-images.githubusercontent.com/38865308/162813524-1c062031-2a0f-4d30-ade7-40a570bbb205.png" 
      width="70" 
      height="50" />
@@ -51,9 +51,10 @@
      width="70" 
      height="50" /> 
 
-### Github Stats
+### Github Stats 📈:
 [![Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonmoy-khanal)](https://github.com/tonmoy-khanal/github-readme-stats)
-#### Reach me out
+
+#### Reach me out 🤙:
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
