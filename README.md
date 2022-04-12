@@ -5,7 +5,7 @@
      height="500" />
 
 - 🔭 I am good at Machine learning and Deep learning. I use python for Data science.
-- 🔭 I have completed my master's in Data Science from GUVI GEEK NETWORK PRIVATE LIMITED (IITM)
+- 🔭 I have completed my course completion in Data Science from GUVI GEEK NETWORK PRIVATE LIMITED (IITM)
 
 ### Area of Interest 💼 :
 
