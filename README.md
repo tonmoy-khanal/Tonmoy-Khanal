@@ -50,6 +50,14 @@
 <img src="https://user-images.githubusercontent.com/38865308/162813729-155ba3c8-ddb6-4e60-8469-326bfd373621.png" 
      width="70" 
      height="50" /> 
+     
+### Database Known ☁️:
+<img src="https://user-images.githubusercontent.com/38865308/162865424-e568c553-734b-46ab-b3c7-d625f3f2d700.png" 
+     width="70" 
+     height="50" />
+<img src="https://user-images.githubusercontent.com/38865308/162865437-2f19aeb2-c629-413f-bff1-ed5009035f17.png" 
+     width="70" 
+     height="50" />
 
 ### Github Stats 📈:
 [![Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonmoy-khanal)](https://github.com/tonmoy-khanal/github-readme-stats)
@@ -81,3 +89,5 @@
 [1]: https://twitter.com/tonmoy__khanal
 [2]: https://www.facebook.com/ta.oy.5/
 [3]: https://github.com/tonmoy-khanal
+
+
