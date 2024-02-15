@@ -50,6 +50,13 @@
 <img src="https://user-images.githubusercontent.com/38865308/162813729-155ba3c8-ddb6-4e60-8469-326bfd373621.png" 
      width="70" 
      height="50" /> 
+<img src="https://github.com/tonmoy-khanal/Tonmoy-Khanal/assets/38865308/237622a1-d6f0-4026-87dd-b037561f9df5" 
+     width="70" 
+     height="50" />
+<img src="(https://github.com/tonmoy-khanal/Tonmoy-Khanal/assets/38865308/ea5f20c5-f3d1-4d21-a342-11c67cdfa847)"
+width="70" 
+     height="50" />
+
      
 ### Database Known ☁️:
 <img src="https://user-images.githubusercontent.com/38865308/162865424-e568c553-734b-46ab-b3c7-d625f3f2d700.png" 
@@ -62,6 +69,14 @@
 ### Github Stats 📈:
 [![Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonmoy-khanal)](https://github.com/tonmoy-khanal/github-readme-stats)
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoy-khanal&layout=compact)](https://github.com/tonmoy-khanal/github-readme-stats)
+
+### GitHub Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tonmoy-khanal&theme=dark)](https://git.io/streak-stats)
+
+### Contributions
+![Tonmoy's GitHub contributions](https://github-readme-stats.vercel.app/api?username=tonmoy-khanal&show_icons=true&theme=radical)
 #### Reach me out 🤙:
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -89,5 +104,6 @@
 [1]: https://twitter.com/tonmoy__khanal
 [2]: https://www.facebook.com/ta.oy.5/
 [3]: https://github.com/tonmoy-khanal
+
 
 
